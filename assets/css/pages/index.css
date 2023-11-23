@@ -3,7 +3,7 @@
     background: #c4ae41;
     color: #fff;
     background-size: cover;
-    background-image:url(assets/images/2020-the-mandalorian-yoda-4k.jpg);
+    background-image:url("2020-the-mandalorian-yoda-4k.jpg");
 }
 
 .home .banner .collection-head {
