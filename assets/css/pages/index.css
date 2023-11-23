@@ -1,9 +1,9 @@
 .home .banner,
 .home .site-header {
-    background: #c4ae41;
+    background: hsl(50, 100%, 50%);
     color: #fff;
     background-size: cover;
-    background-image:url("2020-the-mandalorian-yoda-4k.jpg");
+    background-image:url("https://www.hdrshooter.com/wp-content/uploads/2018/02/Dubai-IMG_5441-Pano-page_compressed.jpg");
 }
 
 .home .banner .collection-head {
