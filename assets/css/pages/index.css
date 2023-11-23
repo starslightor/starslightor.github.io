@@ -1,7 +1,9 @@
 .home .banner,
 .home .site-header {
-    background: #4183c4;
-    color: #fff
+    background: #c4ae41;
+    color: #fff;
+    background-size: cover;
+    background-image:url(assets/images/2020-the-mandalorian-yoda-4k.jpg);
 }
 
 .home .banner .collection-head {
