@@ -11,8 +11,8 @@
     background: 0 0;
     box-shadow: none;
     -webkit-box-shadow: none;
-    background-size: cover;
-    background-image: url("../../images/morning-paris.jpg");
+    /*background-size: cover;
+    background-image: url("../../images/morning-paris.jpg");*/
 }
 
 .home .site-header {
